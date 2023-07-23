@@ -1,4 +1,4 @@
-_G.ScriptDown = false
+_G.ScriptDown = true
 if game.PlaceId == 2534724415 then
 if _G.ScriptDown then
 game.StarterGui:SetCore("SendNotification", {
